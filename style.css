@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+
+header{
+    display: flex;
+    height: 100px;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+
